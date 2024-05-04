@@ -4,7 +4,7 @@
 
 I analyzed a dataset from Kaggle containing credit card transactions and made a model that can recognize fraudulent transactions so that customers do not get charged for items that they did not purchase.
 
-Dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- Dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Steps in this project:
 - Importing libraries
